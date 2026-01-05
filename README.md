@@ -31,26 +31,31 @@ Driven by continuous learning, problem-solving, and building secure, efficient s
 </p>
 
 ---
-### 🔗 Connect
+## 🌐 Follow Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/N00RULAMEEN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="32" />
+    <img src="https://skillicons.dev/icons?i=github" height="52" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/N00RULAMEEN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="52" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/N00RULAMEEN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="32" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="52" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:nooru36124@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="52" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/_N__R_N_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="32" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="52" />
   </a>
 </p>
 
----
+<p align="center">
+  <b>Connect • Collaborate • Build</b>
+</p>
 
-⚡ *Disciplined learner with a strong foundation in programming and a passion for secure systems.*
