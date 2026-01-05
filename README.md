@@ -1,15 +1,19 @@
-<h1 align="left">
+<h1 align="center">
   👨‍💻 Noorul Ameen
 </h1>
 
+## ⚡ About Me
+
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF9C&vCenter=true&width=650&lines=BCA+Student;Software+Developer;Cybersecurity+Enthusiast;Building+secure+and+scalable+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF9C&width=700&lines=Goal-oriented+developer;Strong+in+logic+and+fundamentals;Focused+on+continuous+learning;Interested+in+secure+and+scalable+systems;Building+skills+one+project+at+a+time" />
 </p>
 
-<p>
-Focused on writing <b>clean, secure, and scalable code</b> for real-world problems.  
-📍 India
-</p>
+- 🎯 Goal-oriented and disciplined learner  
+- 🧠 Strong focus on **fundamentals and problem-solving**  
+- 🔐 Security-first mindset while coding  
+- 📈 Improving step by step through practice and real projects  
+
+<hr/>
 
 <hr/>
 
@@ -31,13 +35,23 @@ Focused on writing <b>clean, secure, and scalable code</b> for real-world proble
 
 ---
 
-### 🧠 Professional Focus
-Aspiring **Software Developer** with a strong interest in **cybersecurity and backend engineering**.  
-Driven by continuous learning, problem-solving, and building secure, efficient software.
+##  Professional Focus
+
+Aspiring **Software Developer** with hands-on experience in  
+**C, C++, Java, and Python**, and a growing specialization in  
+**cybersecurity and backend engineering**.
+
+I focus on building software that is:
+- logically structured  
+- security-aware by design  
+- efficient, maintainable, and scalable  
+
+My long-term goal is to work on **secure systems and backend architectures**
+that solve real-world problems.
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=N00RULAMEEN&show_icons=true&theme=dark&hide_border=true" />
 </p>
