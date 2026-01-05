@@ -31,14 +31,25 @@ Driven by continuous learning, problem-solving, and building secure, efficient s
 </p>
 
 ---
-
 ### 🔗 Connect
-- 🐙 GitHub: https://github.com/N00RULAMEEN  
-- 💼 LinkedIn: https://linkedin.com/in/N00RULAMEEN  
-- 🐦 X: https://x.com/N00RULAMEEN  
-- 🎮 Discord: **N00RULAMEEN**  
-- 📸 Instagram: **@_N__R_N_**  
-- 📧 Email: **nooru36124@gmail.com**
+
+<p align="left">
+  <a href="https://github.com/N00RULAMEEN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="32" />
+  </a>
+  <a href="https://linkedin.com/in/N00RULAMEEN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+  </a>
+  <a href="https://x.com/N00RULAMEEN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="32" />
+  </a>
+  <a href="mailto:nooru36124@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+  </a>
+  <a href="https://instagram.com/_N__R_N_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="32" />
+  </a>
+</p>
 
 ---
 
