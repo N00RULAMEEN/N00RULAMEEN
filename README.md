@@ -1,6 +1,8 @@
 <h1 align="center">
-  👨‍💻 Noorul Ameen
+  <img src="https://raw.githubusercontent.com/nikhilkumarsingh/nikhilkumarsingh/main/assets/wave-boy.png" width="64" /><br/>
+  It's me, Noorul Ameen
 </h1>
+<br>
 
 ## ⚡ About Me
 
