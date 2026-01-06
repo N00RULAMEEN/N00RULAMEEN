@@ -1,11 +1,9 @@
+##
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/nikhilkumarsingh/nikhilkumarsingh/main/assets/wave-boy.png" width="64" /><br/>
+  <img src="./assets/wave-avatar.png" width="80" /><br/>
   It's me, Noorul Ameen
 </h1>
-<br>
-
-## ⚡ About Me
-
+## 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF9C&width=700&lines=Goal-oriented+developer;Strong+in+logic+and+fundamentals;Focused+on+continuous+learning;Interested+in+secure+and+scalable+systems;Building+skills+one+project+at+a+time" />
 </p>
