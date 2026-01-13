@@ -53,18 +53,9 @@ that solve real-world problems.
 
 ###  GitHub Activity
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=N00RULAMEEN&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
+  <img src="https://raw.githubusercontent.com/N00RULAMEEN/N00RULAMEEN/output/github-contribution-grid-snake.svg" />
 </p>
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=N00RULAMEEN&theme=github-dark&hide_border=true"
-    height="165"
-  />
-</p>
-<sub>⚠️ Stats may take a moment to load due to GitHub API limits.</sub>
+
 
 
 ---
