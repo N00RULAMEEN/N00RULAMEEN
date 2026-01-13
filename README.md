@@ -53,8 +53,14 @@ that solve real-world problems.
 
 ###  GitHub Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N00RULAMEEN/N00RULAMEEN/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N00RULAMEEN&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N00RULAMEEN&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N00RULAMEEN&theme=github_dark" />
+</p>
+
 
 
 
