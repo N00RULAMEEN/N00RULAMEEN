@@ -53,12 +53,19 @@ that solve real-world problems.
 
 ###  GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N00RULAMEEN&show_icons=true&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=N00RULAMEEN&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=N00RULAMEEN&theme=dark&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=N00RULAMEEN&theme=github-dark&hide_border=true"
+    height="165"
+  />
 </p>
+<sub>⚠️ Stats may take a moment to load due to GitHub API limits.</sub>
+
 
 ---
 ## 🌐 Follow Me
