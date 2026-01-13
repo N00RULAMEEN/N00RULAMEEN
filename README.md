@@ -3,7 +3,7 @@
   <img src="./assets/wave-avatar.png" width="80" /><br/>
   It's me, Noorul Ameen
 </h1>
-## 
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF9C&width=700&lines=Goal-oriented+developer;Strong+in+logic+and+fundamentals;Focused+on+continuous+learning;Interested+in+secure+and+scalable+systems;Building+skills+one+project+at+a+time" />
 </p>
@@ -13,13 +13,7 @@
 - 🔐 Security-first mindset while coding  
 - 📈 Improving step by step through practice and real projects  
 
-<hr/>
-
-<hr/>
-
-
 ---
-
 ##  Core Skills
 
 <p>
@@ -31,11 +25,9 @@
 - **Tools & Platforms:** Git, GitHub, Linux, VS Code  
 - **Concepts:** Data Structures, Backend Development, Secure Systems  
 
-<hr/>
-
 ---
 
-##  Professional Focus
+ Professional Focus
 
 Aspiring **Software Developer** with hands-on experience in  
 **C, C++, Java, and Python**, and a growing specialization in  
@@ -60,8 +52,6 @@ that solve real-world problems.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N00RULAMEEN&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N00RULAMEEN&theme=github_dark" />
 </p>
-
-
 
 
 ---
