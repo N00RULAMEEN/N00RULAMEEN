@@ -5,9 +5,8 @@
 </h1>
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF9C&width=900&lines=Goaloriented+developer;Strong+in+logic+and+fundamentals;Proficient+in+SQL+and+Data+Structures;Focused+on+continuous+learning;Interested+in+secure+and+scalable+systems;Building+skills+one+project+at+a+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF9C&width=700&lines=Goal-oriented+developer;Strong+in+logic+and+fundamentals;Focused+on+continuous+learning;Interested+in+secure+and+scalable+systems;Building+skills+one+project+at+a+time" />
 </p>
-
 
 - 🎯 Goal-oriented and disciplined learner  
 - 🧠 Strong focus on **fundamentals and problem-solving**  
@@ -18,7 +17,7 @@
 ##  Core Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,sql,html,css,js,git,github,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,sql,html,css,js,git,github,linux&perline=11" />
 </p>
 
 - **Programming:** C, C++, Java, Python, SQL  
