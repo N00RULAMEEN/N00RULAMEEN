@@ -5,8 +5,9 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF9C&width=700&lines=Goal-oriented+developer;Strong+in+logic+and+fundamentals;Focused+on+continuous+learning;Interested+in+secure+and+scalable+systems;Building+skills+one+project+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF9C&width=900&lines=Goaloriented+developer;Strong+in+logic+and+fundamentals;Proficient+in+SQL+and+Data+Structures;Focused+on+continuous+learning;Interested+in+secure+and+scalable+systems;Building+skills+one+project+at+a+time" />
 </p>
+
 
 - 🎯 Goal-oriented and disciplined learner  
 - 🧠 Strong focus on **fundamentals and problem-solving**  
@@ -43,14 +44,18 @@ that solve real-world problems.
 
 ---
 
-###  GitHub Activity
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N00RULAMEEN&theme=github-dark&hide_border=true" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N00RULAMEEN&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N00RULAMEEN&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N00RULAMEEN&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/N00RULAMEEN/N00RULAMEEN/output/github-contribution-grid-snake.svg" />
 </p>
 
 
