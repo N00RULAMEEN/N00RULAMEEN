@@ -54,9 +54,8 @@ that solve real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N00RULAMEEN/N00RULAMEEN/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
-
 
 ---
 ## 🌐 Follow Me
