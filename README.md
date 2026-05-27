@@ -1,4 +1,3 @@
-````md
 <h1 align="center">
   <img src="./assets/wave-avatar.png" width="90" /><br/>
   Noorul Ameen
