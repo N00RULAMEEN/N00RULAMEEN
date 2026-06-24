@@ -39,13 +39,11 @@ My approach is to go deep on backend fundamentals step by step rather than sprea
 
 ## 🚀 Featured Projects
 
-<!--
-### Task Manager CLI(https://github.com/N00RULAMEEN/Task-Manager-CLI)
-A command-line task management application that helps users organize, track, and manage daily tasks efficiently through a simple terminal interface.
-`Python`  json`
--->
+Task Manager CLI(https://github.com/N00RULAMEEN/Task-Manager-CLI)
 
-🔧 *Coming soon — currently building my first backend projects with Flask.*
+A command-line task management application built with Python that helps users organize, track, and manage tasks efficiently through a simple terminal interface.
+
+Technologies: `Python` `SQLite`
 
 ---
 
