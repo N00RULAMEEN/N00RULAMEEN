@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noorul Ameen</h1>
 
 <h3 align="center">
-Backend Engineering Student • CS50 Learner • Problem Solver
+Backend Engineering Student • CS50 Learner • Python Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=CS50+Python+Graduate;CS50+SQL+Graduate;Currently+Learning+CS50+Web;Building+Strong+Programming+Fundamentals;Future+Backend+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=CS50+Python+Graduate;CS50+SQL+Graduate;Currently+Learning+CS50+Web;Building+Backend+Development+Skills;Future+Backend+Engineer" />
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@ Backend Engineering Student • CS50 Learner • Problem Solver
 
 🌐 Currently studying Harvard CS50 Web Programming
 
-🎨 Learned modern HTML, CSS, and responsive web design through Scrimba
+🎨 Learned modern HTML, CSS, and responsive web design
 
-🧩 Strong interest in problem solving, databases, and backend systems
+🗄️ Interested in databases, APIs, backend architecture, and scalable systems
 
 🚀 Building skills step-by-step through projects and continuous learning
 
@@ -35,7 +35,7 @@ Backend Engineering Student • CS50 Learner • Problem Solver
 ## 🛠 Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,sql,git,github,linux,vscode,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,sql,git,github,linux,vscode&perline=5" />
 </p>
 
 ---
@@ -63,7 +63,7 @@ Completed
 
 ✅ CS50 Python
 ✅ CS50 SQL
-✅ Scrimba HTML & CSS
+✅ HTML & CSS Fundamentals
 
 Currently Learning
 ────────────────────────
@@ -74,18 +74,18 @@ Next Phase
 ────────────────────────
 
 ⬜ Flask
-⬜ Django
-⬜ Advanced SQL
+⬜ PostgreSQL
 ⬜ REST APIs
+⬜ Authentication Systems
 
 Future Goals
 ────────────────────────
 
-⬜ React
-⬜ Node.js
-⬜ MongoDB
+⬜ FastAPI
+⬜ Backend Architecture
+⬜ Deployment & Cloud
 ⬜ System Design
-⬜ AI Applications
+⬜ Open Source Contributions
 ⬜ Backend Engineering Internship
 ```
 
@@ -96,13 +96,13 @@ Future Goals
 ```txt
 📚 Completing CS50 Web
 
-💻 Building practical projects
+💻 Building Practical Projects
 
-🧠 Strengthening backend fundamentals
+🧠 Strengthening Backend Fundamentals
 
-⚙️ Learning software engineering principles
+⚙️ Learning Software Engineering Principles
 
-🚀 Preparing for backend engineering opportunities
+🚀 Preparing for Backend Engineering Opportunities
 ```
 
 ---
@@ -118,11 +118,6 @@ Future Goals
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N00RULAMEEN&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N00RULAMEEN&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N00RULAMEEN&theme=github_dark" width="48%" />
-</p>
-
 ---
 
 ## 🌱 Currently Learning
@@ -131,7 +126,18 @@ Future Goals
 * Backend Development
 * Database Design
 * API Development
-* Software Engineering Concepts
+* Software Engineering Principles
+
+---
+
+## 🎯 2026 Goals
+
+* Complete CS50 Web
+* Build Production-Ready Flask Applications
+* Learn FastAPI
+* Master SQL & PostgreSQL
+* Deploy Real-World Projects
+* Secure a Backend Development Internship
 
 ---
 
@@ -139,30 +145,13 @@ Future Goals
 
 <p align="center">
 
-<a href="https://github.com/N00RULAMEEN">
-GitHub
-</a>
-•
-<a href="https://linkedin.com/in/N00RULAMEEN">
-LinkedIn
-</a>
-•
-<a href="https://medium.com/@n00rulameen">
-Medium
-</a>
-•
-<a href="https://gitter.im/n00rulameen">
-Gitter
-</a>
-•
-<a href="mailto:nooru36124@gmail.com">
-Email
-</a>
+<a href="https://github.com/N00RULAMEEN">GitHub</a>
+• <a href="mailto:nooru36124@gmail.com">Email</a>
 
 </p>
 
 ---
 
 <p align="center">
-  Learning • Building • Improving
+Learning • Building • Improving
 </p>
