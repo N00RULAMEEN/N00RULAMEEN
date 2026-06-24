@@ -82,6 +82,4 @@ One-line description of what it does and why it's useful.
   <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>(Swap the # in LinkedIn, Medium, and Reddit links above with your actual profile URLs)</i></p>
-
 <p align="center"><b>Learning • Building • Improving</b></p>
