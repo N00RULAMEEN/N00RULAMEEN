@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=N00RULAMEEN&color=green)" />
+  <img src="https://komarev.com/ghpvc/?username=N00RULAMEEN&color=blue" />
 </p>
 
 <br>
