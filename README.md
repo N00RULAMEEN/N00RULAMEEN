@@ -5,7 +5,7 @@ Backend Engineering Student • CS50 Learner • Python Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=CS50+Python+Graduate;CS50+SQL+Graduate;Currently+Learning+CS50+Web;Building+Backend+Development+Skills;Future+Backend+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Completed+CS50+Python;Completed+CS50+SQL;Currently+Learning+CS50+Web;Building+Backend+Development+Skills;Future+Backend+Engineer" />
 </p>
 
 <p align="center">
