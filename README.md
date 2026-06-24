@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=N00RULAMEEN&color=blue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=N00RULAMEEN.N00RULAMEEN" />
 </p>
 
 <br>
