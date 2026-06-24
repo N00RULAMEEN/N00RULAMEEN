@@ -1,117 +1,69 @@
 <h1 align="center">Hi 👋, I'm Noorul Ameen</h1>
-
-<h3 align="center">
-Backend Engineering Student • CS50 Learner • Python Developer
-</h3>
+<h3 align="center">Aspiring Backend Engineer • CS50 Learner • Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Completed+CS50+Python;Completed+CS50+SQL;Currently+Learning+CS50+Web;Building+Backend+Development+Skills;Future+Backend+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=900&lines=Completed+CS50+Python+%26+CS50+SQL;Currently+Learning+CS50+Web;Building+Backend+%26+API+Skills;Future+Backend+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=N00RULAMEEN&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=N00RULAMEEN&label=Profile%20Views&color=2EA3F2&style=for-the-badge" />
 </p>
 
----
+<br>
 
 ## 👨‍💻 About Me
 
-🎓 BCA Student from India
+I'm a BCA student from India with a strong interest in **backend development, databases, and software engineering**. My programming journey started with curiosity about how software works behind the scenes — that curiosity turned into structured learning through Harvard's **CS50 Python** and **CS50 SQL**, which I've completed, and I'm now working through **CS50 Web Programming**.
 
-🐍 Passionate about Python, Backend Development, and Software Engineering
+I'm currently focused on Python-based backend development: building APIs, understanding database design, and learning how scalable applications are architected. Alongside that, I'm exploring cybersecurity fundamentals and cloud basics. I also have some entrepreneurial experience — I've explored e-commerce and digital product ideas, which gave me a feel for both the technical and business sides of building something.
 
-📚 Completed Harvard CS50 Python and Harvard CS50 SQL
+My approach is to go deep on backend fundamentals step by step rather than spreading thin across every framework at once.
 
-🌐 Currently studying Harvard CS50 Web Programming
-
-🎨 Learned modern HTML, CSS, and responsive web design
-
-🗄️ Interested in databases, APIs, backend architecture, and scalable systems
-
-🚀 Building skills step-by-step through projects and continuous learning
+**Long-term vision:** become a backend engineer skilled enough to build reliable, scalable systems — and eventually ship products that solve real problems.
 
 ---
 
-## 🛠 Core Technologies
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,sql,git,github,linux,vscode&perline=5" />
 </p>
 
+| Category | Stack |
+|---|---|
+| **Languages** | Python, C, SQL, HTML, CSS, JavaScript *(learning)* |
+| **Tools** | Git, GitHub, Linux, VS Code |
+| **Interests** | Backend Development, Database Design, REST APIs, Authentication, Cybersecurity, Cloud |
+
 ---
 
-## 📊 Skill Progress
+## 🚀 Featured Projects
+
+> *Pin 2–3 repos here once you have them — this is the section recruiters and visitors look at first. Format below, just swap in your real repos:*
+
+<!--
+### [Project Name](your-repo-link)
+One-line description of what it does and why it's useful.
+`Python` `Flask` `SQLite`
+-->
+
+🔧 *Coming soon — currently building my first backend projects with Flask.*
+
+---
+
+## 🎯 Roadmap
 
 ```txt
-Python       █████████░ 90%
-HTML         █████████░ 90%
-CSS          ████████░░ 85%
-SQL          ████████░░ 85%
-C            ███████░░░ 75%
-JavaScript   ██████░░░░ 65%
-Git          ███████░░░ 70%
-Linux        ██████░░░░ 60%
+✅ Completed         CS50 Python · CS50 SQL · HTML & CSS Fundamentals
+🔄 In Progress        CS50 Web Programming
+⬜ Next Up            Flask · PostgreSQL · REST APIs · Authentication Systems
+⬜ Looking Ahead       FastAPI · Backend Architecture · Deployment & Cloud · System Design
+🎯 2026 Target         Land a Backend Development Internship
 ```
 
 ---
 
-## 🎯 Current Roadmap
-
-```txt
-Completed
-────────────────────────
-
-✅ CS50 Python
-✅ CS50 SQL
-✅ HTML & CSS Fundamentals
-
-Currently Learning
-────────────────────────
-
-🔄 CS50 Web Programming
-
-Next Phase
-────────────────────────
-
-⬜ Flask
-⬜ PostgreSQL
-⬜ REST APIs
-⬜ Authentication Systems
-
-Future Goals
-────────────────────────
-
-⬜ FastAPI
-⬜ Backend Architecture
-⬜ Deployment & Cloud
-⬜ System Design
-⬜ Open Source Contributions
-⬜ Backend Engineering Internship
-```
-
----
-
-## 🔥 Current Focus
-
-```txt
-📚 Completing CS50 Web
-
-💻 Building Practical Projects
-
-🧠 Strengthening Backend Fundamentals
-
-⚙️ Learning Software Engineering Principles
-
-🚀 Preparing for Backend Engineering Opportunities
-```
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N00RULAMEEN&theme=github_dark" />
-</p>
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=N00RULAMEEN&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
@@ -120,38 +72,16 @@ Future Goals
 
 ---
 
-## 🌱 Currently Learning
-
-* CS50 Web Programming
-* Backend Development
-* Database Design
-* API Development
-* Software Engineering Principles
-
----
-
-## 🎯 2026 Goals
-
-* Complete CS50 Web
-* Build Production-Ready Flask Applications
-* Learn FastAPI
-* Master SQL & PostgreSQL
-* Deploy Real-World Projects
-* Secure a Backend Development Internship
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/N00RULAMEEN">GitHub</a>
-• <a href="mailto:nooru36124@gmail.com">Email</a>
-
+  <a href="https://github.com/N00RULAMEEN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nooru36124@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </p>
 
----
+<p align="center"><i>(Swap the # in LinkedIn, Medium, and Reddit links above with your actual profile URLs)</i></p>
 
-<p align="center">
-Learning • Building • Improving
-</p>
+<p align="center"><b>Learning • Building • Improving</b></p>
