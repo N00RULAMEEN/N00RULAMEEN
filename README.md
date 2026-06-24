@@ -1,26 +1,91 @@
 <h1 align="center">Noorul Ameen</h1>
 
 <p align="center">
-Backend Developer • Cybersecurity • Problem Solving
+Python Developer • Backend Engineering • CS50 Student
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Secure+and+Scalable+Systems;Focused+on+Strong+Programming+Fundamentals;Learning+Through+Projects+and+Practice;Cybersecurity+and+Backend+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Strong+Programming+Fundamentals;Learning+Backend+Engineering;CS50+Python+%26+CS50+SQL+Graduate;Currently+Studying+CS50+Web;Future+Backend+%26+AI+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,sql,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,sql,react,nodejs,mongodb,git,github,linux,vscode&perline=6" />
 </p>
 
-## About
+---
 
-🎯 Goal-oriented developer focused on growth through real projects
+## About Me
 
-🧠 Strong interest in logic, problem-solving, and backend systems
+🎓 BCA Student passionate about software development and backend engineering
 
-🔐 Security-first mindset while building scalable applications
+🐍 Strong interest in Python, databases, and scalable web applications
 
-📈 Continuously improving through practice and hands-on learning
+📚 Completed CS50 Python and CS50 SQL
+
+🌐 Currently studying CS50 Web Programming
+
+🧠 Interested in Backend Development, AI Applications, and System Design
+
+🚀 Learning through projects, problem solving, and continuous practice
+
+---
+
+## Language Progress
+
+```txt
+Python       █████████░ 90%
+SQL          ████████░░ 80%
+HTML         ████████░░ 85%
+CSS          ███████░░░ 75%
+JavaScript   ██████░░░░ 65%
+C            ███████░░░ 70%
+
+English      █████████░ 90%
+Malayalam    █████████░ 89%
+Urdu         ██████░░░░ 60%
+Hindi        ██████░░░░ 59%
+Arabic       █████░░░░░ 50%
+```
+
+---
+
+## Current Roadmap
+
+```txt
+✅ CS50 Python
+✅ CS50 SQL
+
+🔄 CS50 Web Programming
+
+⬜ Flask
+⬜ Django
+⬜ Advanced Databases
+⬜ System Design
+⬜ AI Applications
+⬜ Backend Engineering Internship
+```
+
+---
+
+## Featured Work
+
+### CS50 Python
+
+Programming fundamentals, algorithms, data structures, and problem solving.
+
+### CS50 SQL
+
+Database design, relational databases, normalization, and advanced querying.
+
+### CS50 Web (In Progress)
+
+Full-stack web development using Python, JavaScript, HTML, CSS, and databases.
+
+### Personal Projects
+
+Building practical applications to strengthen backend development skills and software engineering fundamentals.
+
+---
 
 ## GitHub Activity
 
@@ -32,39 +97,34 @@ Backend Developer • Cybersecurity • Problem Solving
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N00RULAMEEN&theme=github_dark" />
 </p>
 
-## Current Focus
-
-```txt
-Python full stack Developer
-Backend Engineering
-Data Structures & Algorithms
-Secure System Design
-````
+---
 
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/N00RULAMEEN">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
 
-  <a href="https://linkedin.com/in/N00RULAMEEN">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
+<a href="https://github.com/N00RULAMEEN">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
-  <a href="https://x.com/N00RULAMEEN">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
-  </a>
+<a href="https://linkedin.com/in/N00RULAMEEN">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
 
-  <a href="mailto:nooru36124@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-  </a>
+<a href="https://medium.com/@n00rulameen">
+  <img src="https://cdn.simpleicons.org/medium" height="50"/>
+</a>
 
-  <a href="https://instagram.com/_N__R_N_">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-  </a>
+<a href="https://gitter.im/n00rulameen">
+  <img src="https://cdn.simpleicons.org/gitter" height="50"/>
+</a>
+
+<a href="mailto:nooru36124@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
 </p>
 
 <p align="center">
-  Connect • Collaborate • Build
+Learning • Building • Improving
 </p>
