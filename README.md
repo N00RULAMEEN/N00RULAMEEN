@@ -39,12 +39,10 @@ My approach is to go deep on backend fundamentals step by step rather than sprea
 
 ## 🚀 Featured Projects
 
-> *Pin 2–3 repos here once you have them — this is the section recruiters and visitors look at first. Format below, just swap in your real repos:*
-
 <!--
-### [Project Name](your-repo-link)
-One-line description of what it does and why it's useful.
-`Python` `Flask` `SQLite`
+### Task Manager CLI(https://github.com/N00RULAMEEN/Task-Manager-CLI)
+A command-line task management application that helps users organize, track, and manage daily tasks efficiently through a simple terminal interface.
+`Python`  json`
 -->
 
 🔧 *Coming soon — currently building my first backend projects with Flask.*
