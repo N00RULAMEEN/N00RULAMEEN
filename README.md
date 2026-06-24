@@ -37,9 +37,9 @@ My approach is to go deep on backend fundamentals step by step rather than sprea
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-Task Manager CLI(https://github.com/N00RULAMEEN/Task-Manager-CLI)
+🔗 **Repository:** https://github.com/N00RULAMEEN/Task-Manager-CLI
 
 A command-line task management application built with Python that helps users organize, track, and manage tasks efficiently through a simple terminal interface.
 
