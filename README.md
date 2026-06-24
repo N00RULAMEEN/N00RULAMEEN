@@ -1,56 +1,61 @@
-<h1 align="center">Noorul Ameen</h1>
+<h1 align="center">Hi 👋, I'm Noorul Ameen</h1>
+
+<h3 align="center">
+Backend Engineering Student • CS50 Learner • Problem Solver
+</h3>
 
 <p align="center">
-  Backend Engineering Student • CS50 Learner • Problem Solver
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=CS50+Python+Graduate;CS50+SQL+Graduate;Currently+Learning+CS50+Web;Building+Strong+Programming+Fundamentals;Future+Backend+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Strong+Programming+Fundamentals;CS50+Python+%26+CS50+SQL+Graduate;Currently+Learning+CS50+Web;Exploring+Backend+Engineering;Learning+Through+Projects+and+Practice" />
+  <img src="https://komarev.com/ghpvc/?username=N00RULAMEEN&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-🎓 BCA Student passionate about software engineering and backend development
+🎓 BCA Student from India
 
-🐍 Strong foundation in Python, SQL, problem-solving, and programming fundamentals
+🐍 Passionate about Python, Backend Development, and Software Engineering
 
 📚 Completed Harvard CS50 Python and Harvard CS50 SQL
 
 🌐 Currently studying Harvard CS50 Web Programming
 
-🧠 Interested in Backend Engineering, Databases, APIs, and System Design
+🎨 Learned modern HTML, CSS, and responsive web design through Scrimba
 
-🚀 Focused on building real skills through projects, continuous learning, and practical implementation
+🧩 Strong interest in problem solving, databases, and backend systems
+
+🚀 Building skills step-by-step through projects and continuous learning
 
 ---
 
-## Core Technologies
+## 🛠 Core Technologies
 
-### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,sql,git,github,linux,vscode,figma&perline=6" />
+</p>
+
+---
+
+## 📊 Skill Progress
 
 ```txt
 Python       █████████░ 90%
+HTML         █████████░ 90%
+CSS          ████████░░ 85%
 SQL          ████████░░ 85%
-HTML         ████████░░ 85%
-CSS          ███████░░░ 75%
-C            ███████░░░ 70%
+C            ███████░░░ 75%
 JavaScript   ██████░░░░ 65%
-```
-
-### Tools & Environment
-
-```txt
-Git
-GitHub
-Linux
-VS Code
+Git          ███████░░░ 70%
+Linux        ██████░░░░ 60%
 ```
 
 ---
 
-## Learning Roadmap
+## 🎯 Current Roadmap
 
 ```txt
 Completed
@@ -58,13 +63,14 @@ Completed
 
 ✅ CS50 Python
 ✅ CS50 SQL
+✅ Scrimba HTML & CSS
 
 Currently Learning
 ────────────────────────
 
 🔄 CS50 Web Programming
 
-Next Focus
+Next Phase
 ────────────────────────
 
 ⬜ Flask
@@ -85,30 +91,31 @@ Future Goals
 
 ---
 
-## Current Focus
+## 🔥 Current Focus
 
 ```txt
-🎯 Strengthening backend development skills
+📚 Completing CS50 Web
 
-📚 Completing CS50 Web Programming
+💻 Building practical projects
 
-🧩 Improving problem-solving ability
+🧠 Strengthening backend fundamentals
 
-💻 Building practical software projects
+⚙️ Learning software engineering principles
 
 🚀 Preparing for backend engineering opportunities
 ```
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N00RULAMEEN&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N00RULAMEEN&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N00RULAMEEN&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N00RULAMEEN&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -118,16 +125,44 @@ Future Goals
 
 ---
 
-## Connect
+## 🌱 Currently Learning
+
+* CS50 Web Programming
+* Backend Development
+* Database Design
+* API Development
+* Software Engineering Concepts
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/N00RULAMEEN">GitHub</a> • <a href="https://linkedin.com/in/N00RULAMEEN">LinkedIn</a> • <a href="https://medium.com/@n00rulameen">Medium</a> • <a href="https://gitter.im/n00rulameen">Gitter</a> • <a href="mailto:nooru36124@gmail.com">Email</a>
+<a href="https://github.com/N00RULAMEEN">
+GitHub
+</a>
+•
+<a href="https://linkedin.com/in/N00RULAMEEN">
+LinkedIn
+</a>
+•
+<a href="https://medium.com/@n00rulameen">
+Medium
+</a>
+•
+<a href="https://gitter.im/n00rulameen">
+Gitter
+</a>
+•
+<a href="mailto:nooru36124@gmail.com">
+Email
+</a>
 
 </p>
 
 ---
 
 <p align="center">
-Learning • Building • Improving
+  Learning • Building • Improving
 </p>
