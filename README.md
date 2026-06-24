@@ -26,7 +26,7 @@ My approach is to go deep on backend fundamentals step by step rather than sprea
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,sql,git,github,linux,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,sqlite,git,github,linux,vscode&perline=5" />
 </p>
 
 | Category | Stack |
@@ -37,13 +37,14 @@ My approach is to go deep on backend fundamentals step by step rather than sprea
 
 ---
 
-## Projects
+## 🚀 Projects
 
-🔗 **Repository:** https://github.com/N00RULAMEEN/Task-Manager-CLI
-
+### [Task Manager CLI](https://github.com/N00RULAMEEN/Task-Manager-CLI)
 A command-line task management application built with Python that helps users organize, track, and manage tasks efficiently through a simple terminal interface.
 
-Technologies: `Python` `SQLite`
+`Python` `SQLite`
+
+> *More projects coming as I work through Flask and PostgreSQL.*
 
 ---
 
@@ -73,9 +74,9 @@ Technologies: `Python` `SQLite`
 <p align="center">
   <a href="https://github.com/N00RULAMEEN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:nooru36124@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/N00RULAMEEN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@N00RULAMEEN"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://reddit.com/user/N00RULAMEEN"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </p>
 
 <p align="center"><b>Learning • Building • Improving</b></p>
