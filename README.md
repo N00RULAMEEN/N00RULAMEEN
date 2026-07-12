@@ -63,8 +63,7 @@ A command-line task management application built with Python that helps users or
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N00RULAMEEN&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N00RULAMEEN&theme=github-dark-blue&hide_border=true" width="48%" />
 ---
 
 ## 🤝 Connect With Me
