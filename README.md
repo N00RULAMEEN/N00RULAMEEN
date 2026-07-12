@@ -68,7 +68,8 @@ A command-line task management application built with Python that helps users or
 </p>
 
 ---
-
+https://github-profile-trophy.vercel.app/?username= N00RULAMEEN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 ## 🤝 Connect With Me
 
 <p align="center">
