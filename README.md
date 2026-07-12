@@ -64,13 +64,9 @@ A command-line task management application built with Python that helps users or
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=N00RULAMEEN&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N00RULAMEEN&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=N00RULAMEEN&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 ## 🤝 Connect With Me
 
 <p align="center">
