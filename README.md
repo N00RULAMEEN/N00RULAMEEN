@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Backend Engineer • CS50 Learner • Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=900&lines=Completed+CS50+Python+%26+CS50+SQL;Currently+Learning+CS50+Web;Building+Backend+%26+API+Skills;Future+Backend+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=jet&weight=600&size=30&pause=1000&color=2EA3F2&background=0000000E&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Backend+Developer+%7C+Python+%7C+Flask++%7C;+API+%7C+SQL+%7C+Authentication+%7C;+Deployment+%7C"/>
 </p>
 
 <p align="center">
